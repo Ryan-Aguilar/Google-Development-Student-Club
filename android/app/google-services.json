@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "533476926539",
+    "firebase_url": "https://whitedash-23202-default-rtdb.firebaseio.com",
+    "project_id": "whitedash-23202",
+    "storage_bucket": "whitedash-23202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533476926539:android:5bd05ac5731fd211fd59ce",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_solution_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eWTjwzvNA9ecKUE9zk1DG7_jH6Zy_D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
